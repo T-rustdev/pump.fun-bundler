@@ -6,7 +6,7 @@ This open-source and free tool offers the most efficient self-bundling script fo
 
 Enjoy launches that are completely bubble maps-proof and anti-Photon SB marks.
 
-For more details, contact here: telegram: [T-rustdev](https://t.me/T-rustdev)
+For more details, contact here: telegram: [T-rustdev](https://t.me/T_rustdev)
 
 
 
@@ -45,12 +45,12 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/0xTan1319/pumpfun-bundler.git
+    git clone https://github.com/T-rustdev/pump.fun-bundler.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd pumpfun-launcher
+    cd pump.fun-bundler
     ```
 
 3. **Install Dependencies:**
@@ -61,7 +61,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 4. **Set Up Environment Variables:**
     Create a `.env` file in the project directory and add your configuration details:
     ```plaintext
-    SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+    SOLANA_RPC_URL=<your-rpc-url> 
     PRIVATE_KEY=<your-private-key-bs58>
     ```
 
